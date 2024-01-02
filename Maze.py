@@ -216,7 +216,7 @@ class Maze():
 
 
 if len(sys.argv) != 2:
-    sys.exit("Usage: python Maze.py maze1.txt")
+    sys.exit("Usage: python Maze.py maze2.txt")
 
 m = Maze(sys.argv[1])
 print("Maze:")
